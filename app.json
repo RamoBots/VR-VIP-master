@@ -58,7 +58,7 @@
       },
       "BOT_IMAGE": {
         "description": "~  ضع صورة كليشة الاشتراك الاجباري ، يمكنك تجاهل هذا الحقل .",
-        "value": "https://graph.org/file/09eaf36d729b2a5aae6ca.jpg,
+        "value": "https://graph.org/file/09eaf36d729b2a5aae6ca.jpg",
         "required": false
         
       },
